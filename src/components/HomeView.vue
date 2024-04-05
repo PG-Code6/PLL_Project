@@ -92,7 +92,7 @@ body > .el-container {
 .el-menu-vertical-demo{
   margin-top: 2rem;
   text-align: left;
-  border-right:0 ;
+  border-right:0 !important;
 }
 
 .el_menu_item{
